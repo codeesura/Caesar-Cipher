@@ -4,7 +4,7 @@
 
 Sezar Şifreleme, genellikle mesajları belirli bir pozisyon sayısı kadar harfleri kaydırarak kodlamak için kullanılan basit bir şifreleme tekniğidir. Bu uygulama, bir liste tamsayılarla oluşturulan bir anahtar kullanarak her harfi belirli bir miktarda kaydırmak için kullanır.
 
-## Sezar Şifreleme Yöntemi
+## Sezar Şifreleme Yöntemi
 
 Sezar şifreleme yöntemi, adını Romalı İmparator Jül Sezar'dan almaktadır ve basit bir şifreleme yöntemidir. Bu yöntemde, bir mesajın her harfi belirli bir sayı kadar kaydırılır ve şifreli mesaj oluşturulur. Şifreli mesajı çözmek için ise aynı sayı kadar geriye kaydırmak yeterlidir.
 
