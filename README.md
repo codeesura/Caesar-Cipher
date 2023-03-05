@@ -48,7 +48,7 @@ This process is repeated for each word in the input list, resulting in a list of
 
 ## Installation
 
-`git clone https://github.com/username/project-name.git`
+`git clone https://github.com/codeesura/Caesar-Cipher.git`
 
 ## License
 
